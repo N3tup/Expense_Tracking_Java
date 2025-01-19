@@ -1,6 +1,6 @@
 package org.projetperso.expense_tracking.repository;
 
-import org.projetperso.expense_tracking.entity.User;
+import org.projetperso.expense_tracking.model.User;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

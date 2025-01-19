@@ -1,4 +1,4 @@
-package org.projetperso.expense_tracking.entity;
+package org.projetperso.expense_tracking.model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
